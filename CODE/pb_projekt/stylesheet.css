@@ -1,0 +1,72 @@
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+
+
+/*Navbar*/
+
+.navbar {
+    display: flex;
+
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.navbarContainer{
+    display: flex;
+    flex: 1;
+}
+
+.navbarContainerTwo {
+    display: flex;
+    flex: 4;
+    justify-content: flex-end;
+}
+
+.nav-item {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+
+
+/*header*/
+
+.header {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+
+    padding: 120px 0px 120px;
+
+}
+
+.headerContainer {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+
+    padding: 180px;
+    margin: 120px;
+
+}
+
+
+
+/*teenused*/
+
+.teenused {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+
+    padding: 120px 0px 120px;
+
+}
